@@ -2,6 +2,9 @@
 
 # Juego de Bingo - En Java
 
+![logo](https://static.vecteezy.com/system/resources/thumbnails/021/948/784/small/bingo-lottery-balls-and-tickets-background-vector.jpg)
+
+
 Este es un juego de Bingo sencillo implementado en Java. El juego simula un cartón de Bingo donde se sortean números aleatorios del 1 al 90, y el jugador marca los números en su cartón. El juego termina cuando el jugador obtiene un "Bingo" (es decir, todos los números del cartón están marcados).
 
 ## Características:
@@ -98,6 +101,9 @@ Sigue nuestra travesía en el mundo de los juegos de Bingo y la diversión. Con�
 ---
 
 # Bingo Game - In Java
+
+![logo](https://static.vecteezy.com/system/resources/thumbnails/021/948/784/small/bingo-lottery-balls-and-tickets-background-vector.jpg)
+
 
 This is a simple Bingo game implemented in Java. The game simulates a Bingo card where numbers are randomly drawn from 1 to 90, and the player marks the numbers on their card. The game ends when the player gets a "Bingo" (i.e., all the numbers on the card are marked).
 
